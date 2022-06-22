@@ -20,4 +20,6 @@
 
 ### Sites
 
-* [Refactoring Guru](https://refactoring.guru/pt-br) - 
+* [Refactoring Guru](https://refactoring.guru/pt-br) - Refatoração e Padrões de Projeto
+* [PHP The Right Way](http://br.phptherightway.com/) - PHP: Do Jeito Certo
+* [PHP Best Practices](http://br.phptherightway.com/) - Um guia curto e prático para tarefas PHP comuns e confusas
