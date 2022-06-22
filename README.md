@@ -1,6 +1,6 @@
-<div style="align-text:center;">
+<center>
  <h1>Materiais para estudo</h1>
-</div>
+</center>
 
 ## Conteúdo
  - [Livros](#livros)
