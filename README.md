@@ -31,5 +31,5 @@
 ### Twitch Streamers
 
 * [Pokemaobr](https://www.twitch.tv/pokemaobr?lang=pt) - PHP
-* [Danielhe4rth](https://www.twitch.tv/danielhe4rt/) - PHP e Laravel
+* [Danielhe4rt](https://www.twitch.tv/danielhe4rt/) - PHP e Laravel
 * [Theonelucas](https://www.twitch.tv/theonelucas) - PHP
