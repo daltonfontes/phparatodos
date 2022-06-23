@@ -6,6 +6,7 @@
  - [Livros](#livros)
  - [Canais no Youtube](#canais-youtube)
  - [Sites](#sites)
+ - [Twitch Streamers](#twitch-streamers)
 
 ### Livros
 
