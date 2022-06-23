@@ -33,4 +33,3 @@
 * [Pokemaobr](https://www.twitch.tv/pokemaobr?lang=pt) -
 * [Danielhe4rth](https://www.twitch.tv/danielhe4rt/) - 
 * [Theonelucas](https://www.twitch.tv/theonelucas) - 
-* [ProgramadorRanzinza](https://www.twitch.tv/programadorranzinza) - 
