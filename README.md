@@ -11,8 +11,10 @@
 
 ### Cursos Gratuitos
 
-* [Curso em Vídeo PHP Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) - Curso de PHP para iniciantes
-* [Curso em Vídeo PHP POO - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - Curso completo de Programação Orientada a Objetos com PHP
+* [PHP Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) - Curso de PHP para iniciantes
+* [PHP POO - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - Curso completo de Programação Orientada a Objetos com PHP
+* [Banco de Dados MYSQL- Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r) - Curso completo de Banco de Dados
+com MySQL
 
 ### Livros
 
